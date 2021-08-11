@@ -57,12 +57,12 @@ if __name__ == '__main__':
 
 Prefect is a Python-based workflow management system
 
-Conclusion:
+**Conclusion:**
 
-Perfect - task, flow ==> get detailed information about when every task started and finished.
+* Perfect - task, flow ==> get detailed information about when every task started and finished.
 
-Perfect - parameter ==> provide flexibility
+* Perfect - parameter ==> provide flexibility
 
-Perfect - schedule => to do the ETL task every interval specified
+* Perfect - schedule => to do the ETL task every interval specified
 
-handle failures
+* handle failures
